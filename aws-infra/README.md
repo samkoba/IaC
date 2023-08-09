@@ -1,6 +1,6 @@
 # Flow
 
-![instance with load balancer](graph.svg "instance with load balancer")
+![aws-infra](graph/terraform-graph.svg "flow")
 
 ### Create stack
 
