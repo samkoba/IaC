@@ -1,6 +1,6 @@
 # How to
 
-![instance with load balancer](../img/04-load-balancer.png "instance with load balancer")
+![instance with load balancer](graph.svg "instance with load balancer")
 
 ### Create stack
 
