@@ -1,4 +1,4 @@
-# How to
+# FLOW
 
 ![instance with load balancer](graph.svg "instance with load balancer")
 
