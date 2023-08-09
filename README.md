@@ -1,6 +1,6 @@
 # Flow
 
-![aws-infra](graph/terraform-graph.svg "flow")
+![aws-infra](aws-infra/graph/terraform-graph.svg "flow")
 
 ### Create stack
 
@@ -18,6 +18,7 @@ This script will create:
 
 
 ### Install Graph
+```
 yum install graphviz
 
 
