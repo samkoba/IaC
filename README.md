@@ -20,7 +20,7 @@ This script will create:
 ### Install Graph
 ```
 yum install graphviz
-
+```
 
 ### Delete stack
 
